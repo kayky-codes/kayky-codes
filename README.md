@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 
-Meu nome é Kayky Henrique de Assis Teixeira. Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP - Campus Capivari, atualmente no 4º semestre, e possuo formação técnica em Desenvolvimento de Sistemas pela ETEC de Monte Mor. Desde o ensino médio venho construindo uma base sólida em tecnologia, participando de eventos como Robocode, MCTEC e ETEC de Portas Abertas, além de desenvolver projetos práticos que ampliaram minha vivência na área. 
+Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP - Campus Capivari, atualmente no 4º semestre, e possuo formação técnica em Desenvolvimento de Sistemas pela ETEC de Monte Mor. Desde o ensino médio venho construindo uma base sólida em tecnologia, participando de eventos como Robocode, MCTEC e ETEC de Portas Abertas, além de desenvolver projetos práticos que ampliaram minha vivência na área. 
 
 ---
 
